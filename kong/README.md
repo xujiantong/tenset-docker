@@ -42,7 +42,7 @@
 ### 启动
 
 ```bash
-docker-compose up -d
+docker compose up -d
 ```
 
 - 首次会自动完成数据库表/迁移、admin 初始化。
@@ -55,7 +55,7 @@ docker-compose up -d
 ### 关闭
 
 ```bash
-docker-compose down
+docker compose down
 ```
 
 ---
