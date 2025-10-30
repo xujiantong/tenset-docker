@@ -33,7 +33,7 @@
 | 443        | kong     | Gateway HTTPS   |
 | 8001       | kong     | Kong Admin API  |
 | 1337       | konga    | Konga Web界面   |
-| 5432       | postgres | PG 数据库管理口 |
+| 55432      | postgres | PG 数据库管理口 |
 
 ---
 
